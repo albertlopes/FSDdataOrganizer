@@ -4,7 +4,7 @@ FSDdataOrganizer
 Tool to organize the game data from Free Style Dash 2/3 for Xbox 360;
 
 
-ABOUT THE APP:
+ABOUT THE APP
 -------------
 I made this app to organize better the data of the the Freestyle Dash.(if your games are alphabeticaly ordered).
 
@@ -17,21 +17,21 @@ This makes the loading of the covers better for those who use the games in alpha
 
 
 
-ABOUT USAGE:
--------------
+ABOUT USAGE
+-----------
 To use just compile and double click in fsdDataOrganizer.jar, follow the instructions in the app.
 
 
 
-ABOUT THE CODE:
--------------
+ABOUT THE CODE
+--------------
 Is a netbeans project, because i like netbeans to do gui apps. feel free to use, improve and share.
 
 
-ABOUT FSD:
--------------
+ABOUT FSD
+---------
 FSD is property of FSD team at realmodscene.com
 
 
 
-Cheers mate, goog game.
+Cheers mate, good game.
